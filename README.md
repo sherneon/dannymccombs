@@ -11,12 +11,12 @@
     <nav>
         <ul>
             <li>
-                <a href="https://www.youtube.com/user/Sherneon" target="_blank" class="social-link">
+                <a href="https://youtube.com/@sherneon?si=MRJYo3fKTyUw30n7">
                     <img src="youtube.png" alt="YouTube" class="social-image">
                 </a>
             </li>
             <li>
-                <a href="https://soundcloud.com/sherneon" target="_blank" class="social-link">
+                <a href="https://soundcloud.com/sherneon" class="social-link">
                     <img src="soundcloud.png" alt="SoundCloud" class="social-image">
                 </a>
             </li>
