@@ -24,7 +24,7 @@
     </nav>
     <section>
         <p>Hello, I'm Danny McCombs. Welcome to my GitHub Pages website.</p>
-        <p>Feel free to explore my content on <a href="https://www.youtube.com/user/Sherneon" target="_blank">YouTube</a> and <a href="https://soundcloud.com/sherneon" target="_blank">SoundCloud</a>.</p>
+        <p>Feel free to explore my content on <a href="https://youtube.com/@sherneon?si=_mDp7W9xOVopfmr8" target="_blank">YouTube</a> and <a href="https://soundcloud.com/sherneon" target="_blank">SoundCloud</a>.</p>
     </section>
 </body>
 </html>
