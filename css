@@ -1,0 +1,12 @@
+/* Add 3D effect to the images on hover */
+.social-link:hover .social-image {
+    transform: scale(1.1); /* Enlarge the image on hover */
+    transition: transform 0.3s; /* Add a smooth transition effect */
+}
+
+.social-image {
+    width: 100px; /* Adjust the width to your preferred size */
+    height: auto;
+}
+
+/* You can customize the styling further as needed */
